@@ -1,4 +1,4 @@
-# Users simple API
+# Users API
 
 1. Run json-server on port 3004 with db.json
 2. Check that your mock is up and running:
