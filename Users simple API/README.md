@@ -36,3 +36,44 @@ curl --location 'http://localhost:3000/api/data-graphs/data-sources/import' \
     "data": {{oas_document}}
 }'
 ```
+
+## Try it out
+
+Try out a query:
+
+```gql
+query myQuery{
+  getUserById(id: 5) {
+    cart_id
+    email
+    id
+    username
+  }
+}
+```
+
+Try out a mutation:
+
+```gql
+mutation myMutation ($user_input: UserInput!)  {
+  createUser(userInput: $user_input) {
+    cart_id
+    email
+    id
+    username
+  }
+}
+```
+
+Variables:
+
+```gql
+{
+  "user_input": {
+    "cart_id": 1,
+    "email": "aga@aga.com",
+    "id": 201,
+    "username": "Aga"
+  }
+}
+```
