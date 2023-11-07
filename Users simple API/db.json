@@ -1,0 +1,154 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "Hippopotamus3",
+        "email": "hippopotamus3@gmail.com",
+        "cart_id": 1
+      },
+      {
+        "id": 2,
+        "username": "Andy5",
+        "email": "andy5@gmail.com",
+        "cart_id": 2
+      },
+      {
+        "id": 3,
+        "username": "Eagle7",
+        "email": "eagle7@gmail.com",
+        "cart_id": 3
+      },
+      {
+        "id": 4,
+        "username": "Snail0",
+        "email": "snail0@gmail.com",
+        "cart_id": 4
+      },
+      {
+        "id": 5,
+        "username": "Wolf7",
+        "email": "wolf7@gmail.com",
+        "cart_id": 5
+      },
+      {
+        "id": 6,
+        "username": "Snail1",
+        "email": "snail1@gmail.com",
+        "cart_id": 6
+      },
+      {
+        "id": 7,
+        "username": "Bird9",
+        "email": "bird9@gmail.com",
+        "cart_id": 7
+      },
+      {
+        "id": 8,
+        "username": "Grapefruit4",
+        "email": "grapefruit4@gmail.com",
+        "cart_id": 8
+      },
+      {
+        "id": 9,
+        "username": "Cat3",
+        "email": "cat3@gmail.com",
+        "cart_id": 9
+      },
+      {
+        "id": 10,
+        "username": "Giraffe9",
+        "email": "giraffe9@gmail.com",
+        "cart_id": 10
+      },
+      {
+        "id": 11,
+        "username": "Raspberry5",
+        "email": "raspberry5@gmail.com",
+        "cart_id": 11
+      },
+      {
+        "id": 12,
+        "username": "Peach1",
+        "email": "peach1@gmail.com",
+        "cart_id": 12
+      },
+      {
+        "id": 13,
+        "username": "Dolphin8",
+        "email": "dolphin8@gmail.com",
+        "cart_id": 13
+      },
+      {
+        "id": 14,
+        "username": "Eagle1",
+        "email": "eagle1@gmail.com",
+        "cart_id": 14
+      },
+      {
+        "id": 15,
+        "username": "Melon0",
+        "email": "melon0@gmail.com",
+        "cart_id": 15
+      },
+      {
+        "id": 16,
+        "username": "Kitten0",
+        "email": "kitten0@gmail.com",
+        "cart_id": 16
+      },
+      {
+        "id": 17,
+        "username": "Persimmon8",
+        "email": "persimmon8@gmail.com",
+        "cart_id": 17
+      },
+      {
+        "id": 18,
+        "username": "Chimpanzee7",
+        "email": "chimpanzee7@gmail.com",
+        "cart_id": 18
+      },
+      {
+        "id": 19,
+        "username": "Dolphin3",
+        "email": "dolphin3@gmail.com",
+        "cart_id": 19
+      },
+      {
+        "id": 20,
+        "username": "Horse8",
+        "email": "horse8@gmail.com",
+        "cart_id": 20
+      },
+      {
+        "id": 21,
+        "username": "Watermelon7",
+        "email": "watermelon7@gmail.com",
+        "cart_id": 21
+      },
+      {
+        "id": 22,
+        "username": "Scorpion9",
+        "email": "scorpion9@gmail.com",
+        "cart_id": 22
+      },
+      {
+        "id": 23,
+        "username": "Monkey7",
+        "email": "monkey7@gmail.com",
+        "cart_id": 23
+      },
+      {
+        "id": 24,
+        "username": "Goat6",
+        "email": "goat6@gmail.com",
+        "cart_id": 24
+      },
+      {
+        "id": 25,
+        "username": "Duck4",
+        "email": "duck4@gmail.com",
+        "cart_id": 25
+      }
+    ]
+  }
